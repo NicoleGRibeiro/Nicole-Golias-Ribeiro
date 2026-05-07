@@ -3,11 +3,11 @@
 <div align="center">
 
   <p>
-    <a href="#home"><b>Início</b></a> • 
-    <a href="#projetos"><b>Sobre mim</b></a> • 
-    <a href="#perfil"><b>Projetos</b></a> • 
-    <a href="#contato"><b>Competências</b></a> • 
-    <a href="#perfil"><b>contato</b></a> 
+    <a href="#início"><b>Início</b></a> • 
+    <a href="#Sobre mim"><b>Sobre mim</b></a> • 
+    <a href="#Projetos"><b>Projetos</b></a> • 
+    <a href="#Habilidades Técnicas"><b>Habilidades Técnicas</b></a> • 
+    <a href="#Contato"><b>Contato</b></a> 
   </p>
 </div>
 
