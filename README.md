@@ -76,7 +76,7 @@
 
   <tr>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
-      <img src="Máscaras.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <img src="Mascaras.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
       <b>👾 The Truth About Alice</b>
       <p style="font-size: 14px;">Máscaras</p>
