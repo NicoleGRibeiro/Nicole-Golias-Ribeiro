@@ -123,9 +123,9 @@
 <br><br>
 
 
-<p><b>Habilidades Técnicas:</b></p>
+ ⚙️ Habilidades Técnicas:
 <ul>
-  <li>Escultura Digital & Retopologia (High-poly e Low-poly) na ferramenta Blender.</li>
+  <li>Escultura & Modelagem Digital 3D (High-poly e Low-poly) na ferramenta Blender.</li>
   <li>Pintura e texturização na ferramenta Substance painter.</li>
   <li>Arte 2D na ferramente piskel.</li>
   <li>Arte vetorizada na ferramenta Inkscape.</li>
@@ -136,16 +136,18 @@
 <h2 id="contato">✉️ Página para Contato</h2>
 <p>Sinta-se à vontade para entrar em contato para trocarmos ideias ou oportunidades!</p>
 
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
+  <p>📧 <b>E-mail:</b> <a href="mailto:nickgr25@hotmail.com">nickgr25@hotmail.com</a></p>
+</div>
 <br><br>
 
 ---
+<br>
+
 <div align="center">
-  <a href="#home">🔺 Voltar ao topo</a>
+ 
+  </p>
+  <p>
+    <b>Nicole Golias Ribeiro</b> © 2026. Todos os direitos reservados.
+  </p>
 </div>
