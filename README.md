@@ -50,13 +50,38 @@
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
       <img src="Dr.Tarrant.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
-      <b>👾 The Lair</b>
-      <p style="font-size: 14px;">Jogo de terror com foco em ambientação e escultura digital.</p>
-     
-   
-    
-   
+      <b>👾 The Truth About Alice</b>
+      <p style="font-size: 14px;">Dr.Tarrant</p>
   </tr>
+
+
+
+   <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="Enfermeiro.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 The Truth About Alice</b>
+      <p style="font-size: 14px;">Enfermeiro</p>
+  </tr>
+
+
+   <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="Médico.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 The Truth About Alice</b>
+      <p style="font-size: 14px;">Médico</p>
+  </tr>
+
+
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="Máscaras.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 The Truth About Alice</b>
+      <p style="font-size: 14px;">Máscaras</p>
+  </tr>
+  
 </table>
 
 <br><br>
