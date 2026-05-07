@@ -28,8 +28,8 @@
       <p>21 Anos</p>
       <p>Ourinhos SP</p>
       <br>
-      <a href="#contato"><b>Entre em contato →</b></a>
-    </td>
+     
+   
   </tr>
 </table>
 
@@ -50,7 +50,7 @@
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
       <img src="Dr.Tarrant.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
-      <b>👾 The Truth About Alice</b>
+      <b>👾 The Truth About Alice(Projeto Integrador da Fatec)</b>
       <p style="font-size: 14px;">Dr.Tarrant</p>
   </tr>
 
@@ -60,7 +60,7 @@
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
       <img src="Enfermeiro.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
-      <b>👾 The Truth About Alice</b>
+      <b>👾 The Truth About Alice(Projeto Integrador da Fatec)</b>
       <p style="font-size: 14px;">Enfermeiro</p>
   </tr>
 
@@ -69,7 +69,7 @@
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
       <img src="Médico.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
-      <b>👾 The Truth About Alice</b>
+      <b>👾 The Truth About Alice(Projeto Integrador da Fatec)</b>
       <p style="font-size: 14px;">Médico</p>
   </tr>
 
@@ -78,8 +78,44 @@
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
       <img src="Mascaras.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <br>
-      <b>👾 The Truth About Alice</b>
+      <b>👾 The Truth About Alice(Projeto Integrador da Fatec)</b>
       <p style="font-size: 14px;">Máscaras</p>
+  </tr>
+
+
+   <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="pixel art.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 Lili a gatita perdida (Jogo realizado na Game jam do Sebrae)</b>
+      <p style="font-size: 14px;">Cidade</p>
+  </tr>
+
+
+   <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="predio2.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 Lili a gatita perdida (Jogo realizado na Game jam do Sebrae)</b>
+      <p style="font-size: 14px;">Prédios</p>
+  </tr>
+
+
+   <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="predio3.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 Lili a gatita perdida (Jogo realizado na Game jam do Sebrae)</b>
+      <p style="font-size: 14px;">Prédios</p>
+  </tr>
+
+
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+      <img src="arte vetor.png" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+      <br>
+      <b>👾 Fragmento do mundo: A balança da lua(Projeto Integrador da Fatec) </b>
+      <p style="font-size: 14px;">Cenários</p>
   </tr>
   
 </table>
